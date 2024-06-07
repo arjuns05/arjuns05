@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-I'm currently working on my Shopper's Companion Chrome Extension<br>I'm looking to collaborate on distributed systems and machine learning projects<br>I'm currently learning SpringBoot<br>Avid math and technology and enthusiast<br>
+
 
 
 ## 🌐 Socials:
